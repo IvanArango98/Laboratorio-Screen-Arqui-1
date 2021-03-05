@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\Proyectos java\Arqui\Arqui\bin\Debug\Arqui.exe.config
+C:\Users\ACER\Desktop\Proyectos java\Arqui\Arqui\bin\Debug\Arqui.exe
+C:\Users\ACER\Desktop\Proyectos java\Arqui\Arqui\bin\Debug\Arqui.pdb
+C:\Users\ACER\Desktop\Proyectos java\Arqui\Arqui\obj\Debug\Arqui.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Proyectos java\Arqui\Arqui\obj\Debug\Arqui.Form1.resources
+C:\Users\ACER\Desktop\Proyectos java\Arqui\Arqui\obj\Debug\Arqui.Properties.Resources.resources
+C:\Users\ACER\Desktop\Proyectos java\Arqui\Arqui\obj\Debug\Arqui.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Proyectos java\Arqui\Arqui\obj\Debug\Arqui.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Proyectos java\Arqui\Arqui\obj\Debug\Arqui.exe
+C:\Users\ACER\Desktop\Proyectos java\Arqui\Arqui\obj\Debug\Arqui.pdb
